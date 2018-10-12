@@ -9,4 +9,12 @@ package a.b.c;
 public class Foo1 {
 
     String iai;
+
+    public String getIai() {
+        return iai;
+    }
+
+    public void setIai(String iai) {
+        this.iai = iai;
+    }
 }
