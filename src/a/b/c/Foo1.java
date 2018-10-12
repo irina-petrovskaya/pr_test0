@@ -8,7 +8,10 @@ package a.b.c;
  */
 public class Foo1 {
 
-    String iai;
+    /**
+     * irina-andreevna-ivanova
+     */
+    private String iai;
 
     public String getIai() {
         return iai;
