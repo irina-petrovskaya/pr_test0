@@ -8,7 +8,7 @@ package a.b.c;
  */
 public class Foo1 {
 
-    String ip;
+    private String ip;
 
     public String getIp() {
         return ip;
