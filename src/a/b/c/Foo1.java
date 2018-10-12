@@ -9,7 +9,7 @@ package a.b.c;
 public class Foo1 {
 
     /**
-     * aded by irina-petrovskaya
+     * added by irina-petrovskaya
      */
     private String ip;
 
