@@ -9,4 +9,12 @@ package a.b.c;
 public class Foo1 {
 
     String ip;
+
+    public String getIp() {
+        return ip;
+    }
+
+    public void setIp(String ip) {
+        this.ip = ip;
+    }
 }
