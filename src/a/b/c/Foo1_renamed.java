@@ -6,7 +6,7 @@ package a.b.c;
  * Project: pr_test0
  * *******************************
  */
-public class Foo1 {
+public class Foo1_renamed {
 
     /**
      * ip:String added by irina-petrovskaya
