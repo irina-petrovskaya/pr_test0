@@ -34,4 +34,17 @@ public class Foo1 {
     }
 
 
+/**
+     * irina-andreevna-ivanova
+     */
+    private String iai;
+
+    public String getIai() {
+        return iai;
+    }
+
+    public void setIai(String iai) {
+        this.iai = iai;
+    }
+
 }
