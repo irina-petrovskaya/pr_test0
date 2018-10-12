@@ -9,9 +9,12 @@ package a.b.c;
 public class Foo1 {
 
     /**
-     * added by irina-petrovskaya
+     * ip:String added by irina-petrovskaya
      */
     private String ip;
+    /**
+     * ip2:String  added by irina-petrovskaya
+     */
     private String ip2;
 
     public String getIp2() {
